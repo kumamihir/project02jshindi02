@@ -1,0 +1,66 @@
+.body{
+    background-color: black;
+}
+
+.bmi{
+    margin-left: 360px;
+    font-size: 70px;
+    color: rgb(131, 23, 208);
+}
+.area{
+    margin-top: 10px;
+    margin-left: 170px;
+    /* font-weight: 20px; */
+    font-size: 30px;
+    color: blue;
+}
+#hey{
+    margin-top: 10px;
+}
+
+/* #sam{
+    margin-left: 120px;
+    margin-top: -1px;
+ margin-bottom: -2px;
+} */
+#arrow1{
+    padding: 5px 13px;
+    border-radius: 1px;
+    margin-left: 9px;
+}
+#arrow2{
+    padding: 5px 13px;
+    border-radius: 1px;
+    margin-left: 9px;
+}
+#calc{
+    margin-top: 50px;
+    margin-left:500px;
+    padding: 10px 20px;
+    font-size: larger;
+    border-radius: 10px;
+    cursor: pointer;
+    transform:background-color 0.5s ease;
+    color: brown;
+    /* font-weight: 200px; */
+    font-weight: bold;
+    background-color: rgb(152, 199, 208);
+}
+#calc:hover{
+    background-color:rgb(188, 223, 234);
+}
+.body{
+    background-color:gray;
+}
+#result{
+    margin-left:420px;
+    font-size: 45px;
+    margin-top: 20px;
+}
+.guide{
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.go{
+    margin-left: 70px;
+}
